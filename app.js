@@ -96,3 +96,4 @@ inputTarea.addEventListener('keypress', (e) => {
 // Cargar tareas al iniciar con mostrarTareas
 
 
+mostrarTareas();
